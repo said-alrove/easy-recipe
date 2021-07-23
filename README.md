@@ -25,6 +25,8 @@ That'd be everything for this project :D.
 
 Update: I forgot to mention that saw a different way for writing variables' names in CSS, e.g. with the prefix "clr" for colors, and "ff" for fonts, that way I can be more specific when calling a variable (--clr-primary-100, adding a number after the variable's name to indicate how hue is the color if it's that there's more than one variant of that color, is also a good idea that I started implementing since a while).
 
+In like manner, I figured out that we shouldn't use classes, or images properties in the sources elements (picture) due to the browser first parses the img element and then use (only) the source of the fallback if it's possible. If you want more information check out these videos: [srcset and sizes attributes](https://www.youtube.com/watch?v=2QYpkrX2N48&t=1s), [When to use .jpg or .png? the answer is WebP... sort of](https://www.youtube.com/watch?v=Z_28syzkv-0),[The HTML picture element explained](https://www.youtube.com/watch?v=Rik3gHT24AM&t=1025s). They're part of a serie of videos from [Kevin Powell](https://www.youtube.com/user/KepowOb) (great channel for CSS lovers).
+
 ### Lighthouse
 ![](readme/lighthouse.png)
 
