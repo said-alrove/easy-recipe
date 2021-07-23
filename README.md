@@ -7,6 +7,8 @@ The fifth project from Juan Pablo's course of CSS Grid and Flexbox.
 ## What I learned
 This was an easy project to practice my knowledge in Grid and Flexbox (Grid overall).
 
+I started using more the figure and figcaption elements due to I know they are basically mandatory when having a kinda description or legend for the images, and of course, the code looks more organized that way (personal opinion :D).
+
 I learned that I shouldn't add the loading="lazy" property to those images that are already in the user's view (like the logotype or the hero image) because it's useless (there's no point).
 
 A few days ago I watched a video where the YouTuber (Lucas Dalto) said that's more powerful to put our full URL in the meta properties (like prefetch) or other elements that require an URL instead of just putting the local direction ("https://said-alrove.github.io/easy-recipe/index.html" is better than "/index.html"). In like manner we should put the most descriptive information in the alt attributes to have a better SEO.
