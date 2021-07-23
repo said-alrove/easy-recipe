@@ -15,6 +15,8 @@ I figured out that we shouldn't use SVG images for the Open Graph properties due
 
 Something important to add is that we should use images with high definition (at least over 600px) to achieve a higher lighthouse performance.
 
+I've also implemented the logical properties (block/inline) due to they already have considerable support from the main browsers (+80% on average) and I considered it so useful to use them because there are times when I want to use just a pair of values and I have to either write the full shorthand that includes the four properties or write each property individually, therefore, having another shorthand for those pair of values is great (furthermore you'll have fewer issues if you're working in a site with some language that's written in  a different direction as the usual, for instance, Arabic). If you want more information about this I've mentioned, [check this out](https://www.youtube.com/watch?v=kzvmaVik4mA).
+
 That'd be everything for this project :D.
 
 ### Lighthouse
