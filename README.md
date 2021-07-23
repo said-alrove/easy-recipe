@@ -27,11 +27,11 @@ Update: I forgot to mention that saw a different way for writing variables' name
 
 In like manner, I figured out that we shouldn't use classes, or images properties in the sources elements (picture) due to the browser first parses the img element and then use (only) the source of the fallback if it's possible. If you want more information check out these videos: 
 
-    1.- [Srcset and sizes attributes](https://www.youtube.com/watch?v=2QYpkrX2N48&t=1s). 
+   1.- [Srcset and sizes attributes](https://www.youtube.com/watch?v=2QYpkrX2N48&t=1s). 
   
-    2.- [When to use .jpg or .png? the answer is WebP... sort of](https://www.youtube.com/watch?v=Z_28syzkv-0).
+   2.- [When to use .jpg or .png? the answer is WebP... sort of](https://www.youtube.com/watch?v=Z_28syzkv-0).
   
-    3.- [The HTML picture element explained](https://www.youtube.com/watch?v=Rik3gHT24AM&t=1025s). 
+   3.- [The HTML picture element explained](https://www.youtube.com/watch?v=Rik3gHT24AM&t=1025s). 
   
 They're part of a serie of videos from [Kevin Powell](https://www.youtube.com/user/KepowOb) (great channel for CSS lovers).
 
