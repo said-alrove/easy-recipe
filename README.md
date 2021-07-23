@@ -20,8 +20,8 @@ That'd be everything for this project :D.
 ### Lighthouse
 ![](readme/lighthouse.png)
 
-### Twitter
-![](readme/twitter.png)
-
 ### Facebook
 ![](readme/facebook.png)
+
+### Twitter
+![](readme/twitter.png)
