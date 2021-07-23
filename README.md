@@ -4,7 +4,7 @@ The fifth project from Juan Pablo's course of CSS Grid and Flexbox.
 ## Project's preview
 ![](readme/screenshot.png)
 
-## What I learnt
+## What I learned
 This was an easy project to practice my knowledge in Grid and Flexbox (Grid overall).
 
 I learned that I shouldn't add the loading="lazy" property to those images that are already in the user's view (like the logotype or the hero image) because it's useless (there's no point).
