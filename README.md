@@ -19,6 +19,8 @@ I've also implemented the logical properties (block/inline) due to they already 
 
 That'd be everything for this project :D.
 
+Update: I forgot to mention that saw a different way for writing variables' names in CSS, e.g. with the prefix "clr" for colors, and "ff" for fonts, that way I can be more specific when calling a variable (--clr-primary-100, adding a number after the variable's name to indicate how hue is the color if it's that there's more than one variant of that color, is also a good idea that I started implementing since a while).
+
 ### Lighthouse
 ![](readme/lighthouse.png)
 
