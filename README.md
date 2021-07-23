@@ -19,6 +19,8 @@ Something important to add is that we should use images with high definition (at
 
 I've also implemented the logical properties (block/inline) due to they already have considerable support from the main browsers (+80% on average) and I considered it so useful to use them because there are times when I want to use just a pair of values and I have to either write the full shorthand that includes the four properties or write each property individually, therefore, having another shorthand for those pair of values is great (furthermore you'll have fewer issues if you're working in a site with some language that's written in  a different direction as the usual, for instance, Arabic). If you want more information about this I've mentioned, [check this out](https://www.youtube.com/watch?v=kzvmaVik4mA).
 
+As the last thing, I used the ::selection pseudo-element to change the colors of the highlighter to make it more in accord with the page colors (obviously, I tried to contrast the colors).
+
 That'd be everything for this project :D.
 
 Update: I forgot to mention that saw a different way for writing variables' names in CSS, e.g. with the prefix "clr" for colors, and "ff" for fonts, that way I can be more specific when calling a variable (--clr-primary-100, adding a number after the variable's name to indicate how hue is the color if it's that there's more than one variant of that color, is also a good idea that I started implementing since a while).
