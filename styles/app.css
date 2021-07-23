@@ -102,7 +102,7 @@ img { max-width: 100%; }
     padding-inline: 1rem;
 }
 
-.hero-container img { max-width: 120rem; }
+.hero-container img { width: 120rem; }
 
 /** MAIN **/
 .main-container { padding-inline: 1rem; }
