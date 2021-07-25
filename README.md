@@ -1,5 +1,5 @@
 # easy-recipe
-The fifth project from Juan Pablo's course of CSS Grid and Flexbox.
+The first project from Juan Pablo's course of CSS Grid and Flexbox.
 
 ## Project's preview
 ![](readme/screenshot.png)
