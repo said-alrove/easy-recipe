@@ -1,4 +1,4 @@
-# easy-recipe
+# [easy-recipe](https://said-alrove.github.io/easy-recipe/)
 The first project from Juan Pablo's course of CSS Grid and Flexbox.
 
 ## Project's preview
