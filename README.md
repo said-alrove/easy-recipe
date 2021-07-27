@@ -35,6 +35,8 @@ In like manner, I figured out that we shouldn't use classes, or images propertie
   
 They're part of a serie of videos from [Kevin Powell](https://www.youtube.com/user/KepowOb) (great channel for CSS lovers).
 
+Also, something important to note is the fact that I discovered that I can use the "lang" attribute in practically any element of the HTML, it was very useful because in the footer I created a couple of sections with different dishes from different countries and regions of the world, but some dishes had some words in other languages (regardless of the name of the dish in essence) such as Spanish with the food of Spain, therefore, to use the lang attribute to specify in which language that part of the page was , it was very useful.
+
 ### Lighthouse
 ![](readme/lighthouse.png)
 
