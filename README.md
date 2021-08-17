@@ -15,7 +15,7 @@ This is the first project from Juan Pablo's course of [CSS Grid and Flexbox](htt
 ## Preview
 
 ## What I learned
-> **Note:**this was an easy project to practice my knowledge in Grid and Flexbox (Grid overall).
+> **Note:** this was an easy project to practice my knowledge in Grid and Flexbox (Grid overall).
 
 * I started using more the **figure** and **figcaption** elements due to I know they are basically mandatory when having a kind of description or legend for the images, and of course, the code looks more organized that way (personal opinion :D).
 
@@ -23,7 +23,7 @@ This is the first project from Juan Pablo's course of [CSS Grid and Flexbox](htt
 
 * A few days ago I watched a video where the YouTuber (Lucas Dalto) said that's more powerful to put our full URL in the meta properties (like prefetch) or other elements that require an URL instead of just putting the local direction ("https://said-alrove.github.io/easy-recipe/index.html" is better than "/index.html"). In like manner we should put the most descriptive information in the alt attributes to have a better SEO.
 
-* I figured out that we shouldn't use SVG images for the Open Graph properties due to for any reason they're not rendered (there'll be issues warns in the debuggers).
+* I figured out that we shouldn't use **SVG** images for the **Open Graph** properties due to for any reason they're not rendered (there'll be issues warns in the debuggers).
 
 > **Note:** something important to add is that we should use images with high definition (at least over 600px) to achieve a higher lighthouse performance.
 
